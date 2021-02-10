@@ -7,6 +7,18 @@
 		{
 			"name": "Limit Switch",
 			"path": "Limit Switch"
+		},
+		{
+			"name": "ServoMotor_Sweep",
+			"path": "ServoMotor_Sweep"
+		},
+		{
+			"name": "ServoMotor_Knob",
+			"path": "ServoMotor_Knob"
+		},
+		{
+			"name": "Rotary-Encoder",
+			"path": "Rotary-Encoder"
 		}
 	]
 }
