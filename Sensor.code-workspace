@@ -19,6 +19,10 @@
 		{
 			"name": "Rotary-Encoder",
 			"path": "Rotary-Encoder"
+		},
+		{
+			"name": "Servo_Motor_Rotary_Encoder",
+			"path": "Servo_Motor_Rotary_Encoder"
 		}
 	]
 }
