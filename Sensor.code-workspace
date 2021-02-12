@@ -23,6 +23,10 @@
 		{
 			"name": "Servo_Motor_Rotary_Encoder",
 			"path": "Servo_Motor_Rotary_Encoder"
+		},
+		{
+			"name": "NRF24L01 RF Transmitter - Receiver",
+			"path": "NRF24L01 RF Transmitter - Receiver"
 		}
 	]
 }
