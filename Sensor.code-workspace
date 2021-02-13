@@ -27,6 +27,14 @@
 		{
 			"name": "NRF24L01 RF Transmitter - Receiver",
 			"path": "NRF24L01 RF Transmitter - Receiver"
+		},
+		{
+			"name": "Ky003 - Hall Magnetic Sensor",
+			"path": "Ky003 - Hall Magnetic Sensor"
+		},
+		{
+			"name": "NRF24L01 Receiver",
+			"path": "NRF24L01 Receiver"
 		}
 	]
 }
