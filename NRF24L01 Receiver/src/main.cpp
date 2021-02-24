@@ -4,7 +4,7 @@
 #include "RF24.h"
 #include "SPI.h"
 
-#define LED_PIN 2
+#define LED_PIN 8
 
 int ReceivedMessage[1] = {000}; // Used to store value received by the NRF24L01
 RF24 radioRx(9,10); // NRF24L01 SPI pins. Pin 9 and 10 on the Nano
