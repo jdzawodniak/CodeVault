@@ -1,8 +1,10 @@
 #include <Arduino.h>
 //https://sensorkit.en.joy-it.net/index.php?title=KY-024_Linear_magnetic_Hall_Sensor#Code_example_Arduino 
 // Declaration and initialization of the input pin
+
 int Analog_Pin = A0; // X-axis-signal
 int Digital_Pin = 3; // Button
+
   
 void setup ()
 {
